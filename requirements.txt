@@ -4,3 +4,4 @@ pathos
 fn
 tabulate
 funcy
+matplotlib
